@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&area=true" alt="GitHub Contributions" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&area=true" alt="GitHub Contributions" width="100%"/>
 </div>
 
 <p align="center">
