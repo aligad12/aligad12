@@ -60,7 +60,7 @@
 - **Andrew Ng Course Projects**
   - Linear regression from scratch (NumPy)
   - Logistic regression implementation
-  - [View Code Samples](https://github.com/yourusername/ml-specialization)
+  - [View Code Samples](https://github.com/aligad12/ml-specialization)
 
 #### 🏥 Biomedical Projects
 - Medical Data Analysis Toolkit
@@ -71,10 +71,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aligad12&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aligad12&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="45%"/> 
 </p>
-
 ---
 
 ### 🌱 What's Next?
