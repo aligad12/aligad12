@@ -3,9 +3,6 @@
   🧬 Biomedical Engineer • 🧠 Machine Learning Enthusiast • 🐍 Python Developer
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&area=true" alt="GitHub Contributions" width="100%"/>
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Systems+and+Biomedical+Engineering;100+Days+of+Python+Learner;Machine+Learning+Specialization;Data+Science+%7C+AI+%7C+Healthcare+Tech" alt="Typing SVG" />
@@ -40,10 +37,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Machine Learning:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
 **Development Tools:**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -76,13 +69,7 @@
 </p>
 ---
 
-### 🌱 What's Next?
 
-- Start Kaggle competitions
-- Build end-to-end ML pipeline for medical data
-- Contribute to open-source health-tech projects
-
----
 
 ### 📫 Let's Connect
 
