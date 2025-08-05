@@ -1,71 +1,87 @@
 <h1 align="center">👋 Hey, I'm Ali Ahmed Gad</h1>
 <p align="center">
-  � Biomedical Engineering Student • 👨‍💻 Developer • 🧠 AI Learner • ⚡ Embedded Systems Enthusiast
+  🧬 Biomedical Engineer • 🧠 Machine Learning Enthusiast • 🐍 Python Developer
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&area=true" alt="GitHub Contributions" width="90%"/>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Biomedical+Engineering+Student;Python+%7C+Java+%7C+C%2B%2B+%7C+STM32;AI+%7C+Medical+Imaging+%7C+Embedded+Systems;Building+Projects+That+Matter+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Systems+and+Biomedical+Engineering;100+Days+of+Python+Learner;Machine+Learning+Specialization;Data+Science+%7C+AI+%7C+Healthcare+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
+### 🚀 Current Learning Journey
 
-- 🎓 2nd-year Biomedical Engineering student at **Cairo University**
-- 🏆 Placed **3rd in Shell AI Competition** with autonomous line-following car
-- 🏥 Developed medical imaging tools for CT/MRI analysis
-- ⚡ Enjoy rapid prototyping with **STM32 (Blue Pill)**
-- 🎮 Experimented with **Unity 3D & Blender** for game development
-- 🔍 Passionate about **AI applications in healthcare**
+- **🔥 100 Days of Python Bootcamp** (Udemy)
+  - Currently on: Day 20/100
+  - Recent projects: OOP exercises
+  - Focus: Practicing object-oriented programming in Python
+
+- **🧠 Machine Learning Specialization** (Andrew Ng)
+  - Completed: Linear/Polynomial Regression
+  - Current: Logistic Regression and Classification
+  - Implementing all algorithms in Python
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Technologies:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+**Data Science Stack:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+**Machine Learning:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Development Tools:**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🏆 Featured Projects
+### 📂 Project Portfolio
 
-#### 🚗 Autonomous Lane-Following Car
-- STM32-based vehicle with PID control
-- 3rd place in Shell AI Competition
-- [View Project](https://github.com/yourusername/autonomous-car)
+#### 🤖 ML Implementations
+- **Andrew Ng Course Projects**
+  - Linear regression from scratch (NumPy)
+  - Logistic regression implementation
+  - [View Code Samples](https://github.com/yourusername/ml-specialization)
 
-#### 🏥 Medical Imaging Viewer
-- Python tool for DICOM/NIfTI visualization
-- Windowing, annotation, and 3D reconstruction
-- [View Project](https://github.com/yourusername/medical-imaging-viewer)
-
-#### 🎮 Simple 3D Game
-- Unity project with Blender models
-- Physics-based interactions
-- [View Project](https://github.com/yourusername/simple-3d-game)
+#### 🏥 Biomedical Projects
+- Medical Data Analysis Toolkit
+- Patient Diagnosis Prediction Model
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 </p>
+
+---
+
+### 🌱 What's Next?
+
+- Start Kaggle competitions
+- Build end-to-end ML pipeline for medical data
+- Contribute to open-source health-tech projects
 
 ---
 
@@ -73,18 +89,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-ahmed-gad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aligad.eng@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/yourusername">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
