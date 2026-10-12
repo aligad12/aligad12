@@ -69,10 +69,12 @@ I'm a **Systems & Biomedical Engineering** student at Cairo University with a de
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/aligad12/StudentCrud">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aligad12&repo=StudentCrud&theme=dark&hide_border=true&title_color=ff1e1e&icon_color=ff1e1e&bg_color=0d1117" alt="Student CRUD"/>
-      </a>
-    </td>
+  <b>🎙️ Arabic Dialect Identification</b><br/>
+  <sub>XGBoost on 111 acoustic features (MADIS5) · SBEG205 team project</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/XGBoost-ff1e1e?style=flat-square" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Audio_Processing-b00020?style=flat-square" alt="Audio Processing"/>
+</td>
   </tr>
 </table>
 
