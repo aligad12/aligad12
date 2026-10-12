@@ -88,6 +88,19 @@ My **DEPI graduation project**, built with my team. It combines a Neo4j drug-int
 A conversational parts-inventory assistant for the **Cairo University Racing Team**, built in two phases: a rule-based assistant, then an **LLM (Gemini) with function/tool calling** and multi-turn memory. The model never touches SQL; it can only call controlled tools.
 - `Python` `FastAPI` `Streamlit` `Gemini` `Tool Calling` `SQLite`
 
+### 🎙️ Arabic Dialect Identification
+A speech classification system that identifies Arabic dialects from audio, using **XGBoost on 111 acoustic features** (MADIS5 dataset). Team project for the SBEG205 course (Spring 2026).
+- `Machine Learning` `XGBoost` `Audio Processing`
+<!-- If the repo becomes public, link it: ### 🎙️ [Arabic Dialect Identification](https://github.com/...) and add 2-3 more bullets (accuracy, pipeline, results) -->
+
+### 📈 Signal Viewer
+A signal viewer built with my team for the SBEG205 course (Spring 2026).
+<!-- Add 2-3 bullets with the real features and the tech stack, then a tech-stack line like the others -->
+
+### 📡 Beamforming
+A beamforming project built with my team for the SBEG205 course (Spring 2026).
+<!-- Add 2-3 bullets with what it simulates/does and the tech stack, then a tech-stack line like the others -->
+
 ### 📦 [BookETL](https://github.com/aligad12/booketl): Scraping & Analytics Pipeline
 End-to-end pipeline: scrape 1,000 products across 50 categories, clean and validate with Pandas, load into **Snowflake**, transform with **dbt**, and test every layer (dbt schema tests + pytest).
 - `Python` `BeautifulSoup` `Pandas` `Snowflake` `dbt` `pytest`
@@ -102,7 +115,6 @@ A C# console CRUD app on PostgreSQL with fully parameterized queries, built to l
 - ⚙️ **Autograd from scratch**: implemented PyTorch's autograd engine in the Automatic Computing course (computational graphs, reverse topological sort, backpropagation)
 - 🔁 **RNN from scratch** with BPTT, validated against PyTorch
 - 🤖 **ML Specialization**: algorithms from Andrew Ng's course implemented in Python ([code samples](https://github.com/aligad12/ml-specialization))
-- 🎙️ **Arabic Dialect Identification**: XGBoost on 111 acoustic features (MADIS5 dataset)
 - 🦴 **OsteoVision**: bone fracture risk prediction
 - 🥉 **3rd place nationally** in an autonomous robotics competition
 
