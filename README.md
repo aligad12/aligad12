@@ -68,9 +68,9 @@ I'm a **Systems & Biomedical Engineering** student at Cairo University with a de
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aligad12&repo=booketl&theme=dark&hide_border=true&title_color=ff1e1e&icon_color=ff1e1e&bg_color=0d1117" alt="BookETL"/>
       </a>
     </td>
-        <td align="center" width="50%">
+      <td align="center" width="50%">
       <a href="https://github.com/sbme-tutorials/task05-arabic-dialects-detection-sbeg205_spring26_task5_team14">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbme-tutorials&repo=task05-arabic-dialects-detection-sbeg205_spring26_task5_team14&theme=dark&hide_border=true&title_color=ff1e1e&icon_color=ff1e1e&bg_color=0d1117" alt="Arabic Dialect Identification"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aligad12&repo=StudentCrud&theme=dark&hide_border=true&title_color=ff1e1e&icon_color=ff1e1e&bg_color=0d1117" alt="Student CRUD"/>
       </a>
     </td>
   </tr>
