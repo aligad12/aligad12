@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-gad-profile/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-ff1e1e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aliigad2005@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-ff1e1e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Cairo_University-Class_of_2027-b00020?style=for-the-badge" alt="Cairo University, Class of 2028"/>
+  <img src="https://img.shields.io/badge/Cairo_University-Class_of_2028-b00020?style=for-the-badge" alt="Cairo University, Class of 2028"/>
   <img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-ff1e1e?style=for-the-badge" alt="Open to internships and junior roles"/>
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm a **Systems & Biomedical Engineering** student at **Cairo University** (graduating 2027) who likes to understand things from the ground up. I won **1st place at the NASA Space Apps Cairo hackathon**, implemented **PyTorch's autograd engine from scratch**, built a **tool-calling LLM assistant** for a racing team's parts inventory, and orchestrated a **streaming data pipeline** with Databricks and Airflow.
+I'm a **Systems & Biomedical Engineering** student at **Cairo University** (graduating 2028) who likes to understand things from the ground up. I won **1st place at the NASA Space Apps Cairo hackathon**, implemented **PyTorch's autograd engine from scratch**, built a **tool-calling LLM assistant** for a racing team's parts inventory, and orchestrated a **streaming data pipeline** with Databricks and Airflow.
 
 I work where **AI meets data engineering**: getting data to flow reliably, then building intelligent systems on top of it.
 
